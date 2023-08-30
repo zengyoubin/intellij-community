@@ -1,5 +1,0 @@
-// "Import class 'LinkedList'" "true"
-// RUNTIME_WITH_FULL_JDK
-
-class LL(val list: <caret>LinkedList<String>)
-// FUS_QUICKFIX_NAME: org.jetbrains.kotlin.idea.quickfix.ImportFix
